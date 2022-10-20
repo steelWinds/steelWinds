@@ -1,4 +1,4 @@
-# Hi dude, what’s up? 😎
+# Hi dude, what’s up 😎
 
 <a href="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" target="blank"><img align="center" src="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" style="max-inline-size: 100%; display: block;" /></a>
 
