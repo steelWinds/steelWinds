@@ -8,6 +8,11 @@ i'm typical coder on some p-languages, all my pet-project you can see in "Reposi
 
 <img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/champion.jpg" width="165" height="165" /><img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/ghul.gif" width="330" height="165" /><img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/nats.jpg" height="165px" />
 
+<audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/steelWinds/steelWinds/blob/main/audio/ognei.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
 ## My contacts, _write me..._
 
 <a href="https://t.me/steelWinds"><img width="42px" src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/telegram.png" /></a>
