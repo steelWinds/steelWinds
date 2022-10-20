@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi dude, what’s up? 😮‍💨😤
 
-<!--
-**steelWinds/steelWinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" target="blank"><img align="center" src="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" style="max-inline-size: 100%; display: block;" /></a>
 
-Here are some ideas to get you started:
+i'm typical coder on some p-languages, all my pet-project you can see in "Repositories" tab. Oh, i also like to drink "Сhampion" juice and eat candy bars, yep.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My contacts, _call me..._
+
+<a href="https://t.me/steelWinds"><img width="42px" src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/telegram.png" /></a>
+<a href="mailto:kirillsurov0@gmail.com"><img width="42px" src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/email.png" /></a>
+
+## Oops, i also like play to Roguelike-games, and another ~~shit~~ nice games
+
+<a href="https://steamcommunity.com/id/steelWinds666"><img width="42px" src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/steam.png" /></a>
