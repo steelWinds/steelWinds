@@ -8,9 +8,6 @@ i'm typical coder on some p-languages, all my pet-project you can see in "Reposi
 
 <img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/champion.jpg" width="165" height="165" /><img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/ghul.gif" width="330" height="165" /><img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/nats.jpg" height="165px" />
 
-## Fun fuct 👁 it's my favorite song:
-https://user-images.githubusercontent.com/75117276/197023254-1eafa860-6ac2-4b9a-94bb-7aabef130346.mp4
-
 ## My contacts, _write me..._
 
 <a href="https://t.me/steelWinds"><img width="42px" src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/telegram.png" /></a>
