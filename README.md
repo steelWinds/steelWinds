@@ -25,6 +25,3 @@ i'm typical coder on some p-languages, all my pet-project you can see in "Reposi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=steelWinds&theme=gruvbox&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steelWinds&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-### WakaTime tracker
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=steelWinds)](https://github.com/anuraghazra/github-readme-stats)
