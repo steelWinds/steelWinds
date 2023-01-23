@@ -6,7 +6,8 @@ i'm typical coder on some p-languages, all my pet-project you can see in "Reposi
 
 ***My love is:*** 
 
-<img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/champion.jpg" width="165" height="165" /><img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/ghul.gif" width="330" height="165" /><img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/nats.jpg" height="165px" />
+<img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/champion.jpg" width="165" height="165" />
+<img src="https://github.com/steelWinds/steelWinds/blob/main/icons/assets/nats.jpg" height="165px" />
 
 ## My contacts, _write me..._
 
