@@ -1,7 +1,7 @@
 # Hello! I'm Kirill, sometimes i feel like programmer 😎
 
 <a href="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" target="blank">
-<img align="center" src="https://media4.giphy.com/media/3ohze1JslWBrRxa3Dy/giphy.gif?cid=ecf05e47c99ycb0jev27bv1edez78qkvexymmahlmcuhjmu5&rid=giphy.gif&ct=g" style="inline-size: 100%; display: block; aspect-ratio: 16 / 9; object-fit: cover;"/>
+<img align="center" src="https://ibb.co/5nSpTXn" style="block"/>
 </a>
 
 ## Bio
