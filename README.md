@@ -1,8 +1,8 @@
 # Hello! I'm Kirill, sometimes i feel like programmer 😎
 
-<a href="https://i.ibb.co/mX2ZJrX/4.gif" target="blank" style="display: block; inline-size: 100%;">
-<img align="center" src="https://i.ibb.co/5nSpTXn/4.gif" style="display: block; max-inline-size: 100%;"/>
-</a>
+<p>
+<img align="right" src="https://media.tenor.com/KB45rt2HA60AAAAC/sad4ever.gif" width="30%" />
+</p>
 
 ## Bio
 
