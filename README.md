@@ -1,11 +1,9 @@
 # Hello! I'm Kirill, sometimes i feel like programmer 😎
 
 <div style="
-        display: grid;
-        grid-template-columns: minmax(100px, auto) minmax(300px, auto);
-        gap: 1rem;
+        display: flex;
     ">
-<a href="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" target="blank">
+<a href="https://i.ibb.co/RhMsjrn/2-hinh-gif-anime-chill-gif-chill-dep-nhat.gif" target="blank" style="margin-inline-end: 1rem;">
 <img align="center" src="https://i.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.webp"/>
 </a>
     
