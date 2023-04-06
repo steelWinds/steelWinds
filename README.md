@@ -12,8 +12,6 @@ I'm usally programming on JS, TS, also i like front-end frameworks as: Vue.js, S
 - NodeJS
 - C++ / C# (in fact, i'm not good at C++ and C#, but i just like solving algorithms problems with they).
 
-_So, if you to invite me on work, you will help me be happy._
-
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelWinds&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
