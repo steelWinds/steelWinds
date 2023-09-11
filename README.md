@@ -1,6 +1,6 @@
 # Hello! I'm Kirill, sometimes i feel like programmer 😎
 
-**day fact:** i REALLY duplicate the ccs variables from TailwindCSS until today :)
+**day fact:** i REALLY was duplicate the ccs variables from TailwindCSS until today :)
 
 <p>
 <img align="right" src="https://media.tenor.com/KB45rt2HA60AAAAC/sad4ever.gif" width="30%" />
