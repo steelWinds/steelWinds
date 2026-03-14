@@ -31,13 +31,6 @@ But I was wrong, his hair is combed, and he wears a suit and tie
 He's nice, polite, he'll catch you by surprise
 A smile so bright, you'd never bat an eye"*
 
----
+### 🎧 Now Playing | Marino - Devil In Disguise
 
-### 🎧 Now Playing
-
-<a href="./.github/audio/Marino_Devil_In_Disguise.mp3">
-  <div>| Marino - Devil In Disguise</div>
-  <img src="./.github/gifs/music.gif" alt="Play track" width="200" height="200px" />
-</a>
-
----
+<img src="./.github/gifs/music.gif" align="left" alt="Play track" width="200" />
