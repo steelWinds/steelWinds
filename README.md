@@ -37,7 +37,7 @@ A smile so bright, you'd never bat an eye"*
 
 <a href="./.github/audio/Marino_Devil_In_Disguise.mp3">
   <div>| Marino - Devil In Disguise</div>
-  <img src="./.github/gifs/music.gif" alt="Play track" width="160" />
+  <img src="./.github/gifs/music.gif" alt="Play track" width="200" height="200px" />
 </a>
 
 ---
